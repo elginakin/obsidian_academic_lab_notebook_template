@@ -1,0 +1,49 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "02_projects/01_project-1",
+      "tag": "#project-1",
+      "pattern": ""
+    },
+    {
+      "folder": "02_projects/02_project-2",
+      "tag": "#project-2",
+      "pattern": ""
+    },
+    {
+      "folder": "_templates",
+      "tag": "",
+      "pattern": "protocol"
+    },
+    {
+      "folder": "04_meetings/01_one-on-ones",
+      "tag": "#1on1",
+      "pattern": ""
+    },
+    {
+      "folder": "04_meetings/03_seminar",
+      "tag": "#seminar",
+      "pattern": ""
+    },
+    {
+      "folder": "04_meetings/02_lab-meeting",
+      "tag": "#labmeeting",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "_templates"
+    },
+    {
+      "folder": "_attatchments"
+    },
+    {
+      "folder": "_ 🎉 Welcome (Start Here)"
+    }
+  ]
+}
