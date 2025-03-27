@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "LiBookCopy",
       "LiSchool",
       "LiShare",
-      "LiGraduationCap",
-      "📗"
+      "LiGraduationCap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,9 +37,9 @@
   "_attatchments": "LiBox",
   "_templates": "LiBookTemplate",
   "01_inbox": "LiInbox",
-  "02_projects": "📗",
+  "02_projects": "LiNotebookPen",
   "03_knowledge-base": "LiGraduationCap",
   "04_meetings": "LiShare",
   "05_coursework": "LiSchool",
-  "06_grants": "LiBookCopy"
+  "06_manuscripts": "LiBookCopy"
 }

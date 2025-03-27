@@ -7,11 +7,11 @@ date_created: "[[{{date:YYYY-MM-DD}}]]"
 Start Date: [[{{date:YYYY-MM-DD}}]]
 
 
-# **Purpose:**  
+# **Purpose**
 
 
 
-# **Experiment Description** 
+# **Experiment Description**
 
 
 
