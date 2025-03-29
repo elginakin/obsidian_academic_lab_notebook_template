@@ -1,9 +1,23 @@
 
 
 
-> [!NOTE] This README is under construction 🚧
+> [!WARNING] 
+> This README is under construction 🚧
 
- # Introduction 
+# How to start using this lab notebook 
+
+1. Download [Obsidian](https://obsidian.md/)
+2. Open your terminal in MacOS `Finder -> Applications -> Terminal`
+3. Navigate to the **desired** home directory for your Lab Notebook (e.g. `cd /Users/elgin/Library/Documents/lab_notebooks`) 
+4. `git clone https://github.com/elginakin/obsidian_academic_lab_notebook_template.git`
+5. Open Obsidian 
+6. Open the git repository folder as a vault 
+	- ![_atachments/tutorial_1.png]
+7. Select the folder: obsidian_academic_lab_notebook_template 
+	- ![_atachments/tutorial_2.png]
+8. Proceed with the notebook introduction! in the `_🎉 Welcome (Start Here` folder. 
+
+# Introduction 
 
 👋 Welcome. This repository houses a scaffold digital laboratory notebook constructed in obsidian. Its intent is to supply academic users with an automated with a semi-automated and approach to designing/executing/recording experiments while simultaneously incorporating findings from the literature all in one centralized and local (on your native machine) place. 
 # Motivation 
@@ -16,18 +30,6 @@ Another more serious motivator for this lab notebook is the acknowledgment that 
 > [!IMPORTANT]
 > This vault and the instructions herein were assembled in a MacOS environment thus paths within core and community Obsidian plugins may need manual curation to operate as expected.
 
-## How to start using this lab notebook 
-
-1. Download [Obsidian](https://obsidian.md/)
-2. Open your terminal in MacOS `Finder -> Applications -> Terminal`
-3. Navigate to the **desired** home directory for your Lab Notebook (e.g. `cd /Users/elgin/Library/Documents/lab_notebooks`) 
-4. `git clone https://github.com/elginakin/obsidian_academic_lab_notebook_template.git`
-5. Open Obsidian 
-6. Open the git repository folder as a vault 
-	- ![[tutorial_1.png]]
-7. Select the folder: obsidian_academic_lab_notebook_template 
-	- ![[tutorial_2.png]]
-8. Proceed with the notebook introduction! in the `_🎉 Welcome (Start Here` folder. 
 
 # This notebook relies on the following plugins for intended operation and use: 
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01_inbox/homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
       {
         "id": "66885a5f1154e9c3",
         "type": "tabs",
-        "dimension": 72.76357827476039,
+        "dimension": 72.76357827476038,
         "children": [
           {
             "id": "62ce2561e99284b0",
@@ -100,7 +100,7 @@
       {
         "id": "6f66362ab9a8d633",
         "type": "tabs",
-        "dimension": 27.23642172523962,
+        "dimension": 27.236421725239616,
         "children": [
           {
             "id": "d5d8ccf04ce92e2d",
@@ -265,13 +265,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62ce2561e99284b0",
+  "active": "bf2b921b980fd7ea",
   "lastOpenFiles": [
+    "README.md",
+    "02_journal/2025-03-29.md",
+    "01_inbox/homepage.md",
     "_ 🎉 Welcome (Start Here)/1️⃣ The philosophy behind this lab notebook -  🚧 under construction.md",
     "_ 🎉 Welcome (Start Here)/6️⃣ Task and Experiment Management - 🚧 under construction.md",
     "_ 🎉 Welcome (Start Here)/5️⃣ Intro - Your first protocol -  🚧 under construction.md",
     "_ 🎉 Welcome (Start Here)/4️⃣  Intro - Your first experiment -  🚧 under construction.md",
-    "01_inbox/homepage.md",
     "01_inbox/Project 1 Dashboard.md",
     "01_inbox/Project 2 Dashboard.md",
     "_attachments/Screenshot 2025-03-29 at 5.26.00 PM.png",
@@ -290,10 +292,8 @@
     "03_projects/02_project-2/01_experiments/P2E01 - Some Experiment Name.md",
     "01_inbox/Protocols Dashboard.md",
     "03_projects/01_project-1/01_experiments/P1E01 - Some Experiment Name.md",
-    "02_journal/2025-03-29.md",
     "_templates/daily.md",
     "2025-03-29.md",
-    "README.md",
     "_ 🎉 Welcome (Start Here)/Slide Deck - PhD_Student_Data_Management.pdf",
     "02_journal/2025-W13.md",
     "_templates/protocol - freezing cells (example protocol).md",
