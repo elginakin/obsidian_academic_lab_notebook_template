@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#labmeeting"
+  - lab_meeting
 date_created: "[[{{date:YYYY-MM-DD}}]]"
 ---
 

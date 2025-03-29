@@ -1,5 +1,5 @@
 ---
-date_created: "{{date:dddd, MMMM D, YYYY}}"
+date_created: "[[{{date:YYYY-MM-DD}}]]"
 tags:
   - daily_note
 ---

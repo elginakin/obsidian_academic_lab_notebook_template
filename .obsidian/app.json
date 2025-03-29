@@ -1,4 +1,6 @@
 {
-  "attachmentFolderPath": "_attatchments",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "_attachments",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "promptDelete": false
 }

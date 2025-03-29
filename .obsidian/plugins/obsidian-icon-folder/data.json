@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlertCircle",
+      "LiBookType",
       "LiNotebookPen",
       "LiBookCopy",
-      "LiSchool",
-      "LiShare",
-      "LiGraduationCap"
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,12 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "_attatchments": "LiBox",
   "_templates": "LiBookTemplate",
   "01_inbox": "LiInbox",
-  "02_projects": "LiNotebookPen",
-  "03_knowledge-base": "LiGraduationCap",
-  "04_meetings": "LiShare",
   "05_coursework": "LiSchool",
-  "06_manuscripts": "LiBookCopy"
+  "02_journal": "LiBookType",
+  "03_projects": "LiNotebookPen",
+  "04_knowledge-base": "LiGraduationCap",
+  "06_meetings": "LiShare",
+  "07_manuscripts": "LiBookCopy",
+  "08_zotero": "LiAlertCircle"
 }

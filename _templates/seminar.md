@@ -4,7 +4,7 @@ tags:
 date_created: "[[{{date:YYYY-MM-DD}}]]"
 speaker: 
 institute: 
-Talk Title:
+talk title:
 ---
 # 🗒️Notes
 
