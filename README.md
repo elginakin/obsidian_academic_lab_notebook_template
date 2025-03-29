@@ -12,9 +12,9 @@
 4. `git clone https://github.com/elginakin/obsidian_academic_lab_notebook_template.git`
 5. Open Obsidian 
 6. Open the git repository folder as a vault 
-	- ![./_attachments/tutorial_1.png]
+	- ![tutorial_1](./_attachments/tutorial_1.png)
 7. Select the folder: obsidian_academic_lab_notebook_template 
-	- ![./_attachments/tutorial_2.png]
+	- ![tutorial_2](./_attachments/tutorial_2.png)
 8. Proceed with the notebook introduction! in the `_🎉 Welcome (Start Here` folder. 
 
 # Introduction 
