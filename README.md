@@ -17,14 +17,14 @@
 	- ![tutorial_2](./_attachments/tutorial_2.png)
 8. Proceed with the notebook introduction! in the `_🎉 Welcome (Start Here`) folder. 
 
-# Introduction 
+# Introduction
 
-👋 Welcome. This repository houses a scaffold digital laboratory notebook constructed in obsidian. Its intent is to supply academic users with an automated with a semi-automated and approach to designing/executing/recording experiments while simultaneously incorporating findings from the literature all in one centralized and local (on your native machine) place. 
-# Motivation 
+👋 Welcome! This repository contains a scaffolded digital laboratory notebook built in Obsidian. Its purpose is to provide academic users with a semi-automated approach to designing, executing, and recording experiments while simultaneously integrating findings from the literature—all in one centralized, local (on your native machine) workspace.
+# Motivation
 
-I am currently finishing up my PhD in Molecular Microbiology and Immunology at Johns Hopkins University. This notebook is a product of an insatiable need to over-structure my life while I navigate the world of academia. Moreover, I was growing tired of using multiple applications for tracking experiments and found myself constantly citing the summarizing the literature within my old lab notebooks. The nature of my dissertation work has resulted in many projects continually opening, closing and merging resulting in parallel execution of many different experiments.  
+I am currently completing my PhD in Molecular Microbiology and Immunology at Johns Hopkins University. This notebook is the result of my insatiable need to over-structure my life while navigating academia. I grew tired of using multiple applications to track experiments and constantly found myself citing and summarizing literature in my old lab notebooks. The nature of my dissertation work has led to many projects opening, closing, and merging, requiring the parallel execution of numerous experiments.
 
-Another more serious motivator for this lab notebook is the acknowledgment that the biological sciences is often confounded with difficulties to reproduce reported experimental results.[^1] While many contributors to this problem are conceptual in nature, this notebook aims to remedy a practical one: lowering the time and effort needed to capture details of experimental design and results. In this new era of science, we as graduate students are producing more data than ever before. This, in part, falls in the wake of new technology which gives more bang for our buck in any given experiment and while there are many Electronic Laboratory Notebook (ELN) solutions out there, I found that none of them fully fit my specific needs. [^2]
+A more serious motivation for this lab notebook is the widespread challenge of reproducibility in the biological sciences.[^1] While many contributing factors are conceptual, this notebook aims to address a practical one: reducing the time and effort required to document experimental design and results. In this new era of science, graduate students are generating more data than ever before. This is largely due to advancements in technology that allow us to extract more information from each experiment. While many Electronic Laboratory Notebook (ELN) solutions exist, I found that none fully met my specific needs.[^2]
 
 
 > [!IMPORTANT]
@@ -33,7 +33,7 @@ Another more serious motivator for this lab notebook is the acknowledgment that 
 
 # This notebook relies on the following plugins for intended operation and use: 
 
-The plugins below have been chosen to significantly enhance the experience  of the academic user. However, these plugins are typically maintained by the community and may have diminishing community support over time. While the Obsidian community is strong through [Obsidian Forum](https://forum.obsidian.md/) 
+The plugins below have been chosen to significantly enhance the experience of the academic user. However, these plugins are typically maintained by the community and may have diminishing community support over time. While the Obsidian community is strong through [Obsidian Forum](https://forum.obsidian.md/) 
 
 ## Core Plugins
 
