@@ -15,7 +15,7 @@
 	- ![tutorial_1](./_attachments/tutorial_1.png)
 7. Select the folder: obsidian_academic_lab_notebook_template 
 	- ![tutorial_2](./_attachments/tutorial_2.png)
-8. Proceed with the notebook introduction! in the `_🎉 Welcome (Start Here` folder. 
+8. Proceed with the notebook introduction! in the `_🎉 Welcome (Start Here`) folder. 
 
 # Introduction 
 
