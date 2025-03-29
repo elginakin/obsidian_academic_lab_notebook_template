@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "01_inbox/homepage.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "homepage"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "01_inbox/homepage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of homepage"
             }
           }
         ]
@@ -267,8 +267,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01_inbox/homepage.md",
     "README.md",
+    "01_inbox/homepage.md",
     "_ 🎉 Welcome (Start Here)/1️⃣ The philosophy behind this lab notebook -  🚧 under construction.md",
     "02_journal/2025-03-29.md",
     "_ 🎉 Welcome (Start Here)/6️⃣ Task and Experiment Management - 🚧 under construction.md",
