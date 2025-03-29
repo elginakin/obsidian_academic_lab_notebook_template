@@ -1,5 +1,5 @@
 
-This is an example homepage! When I do open my lab notebook, I'll start here! 
+This is an example homepage!
 
 > [!NOTE] Some notable hotkey shortcuts to mention:
 > - `cmd + n` = creates a new untitled note
