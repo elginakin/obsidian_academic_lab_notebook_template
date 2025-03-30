@@ -9,8 +9,10 @@ This is an example homepage!
 > - All hotkeys can be found under `settings -> hotkeys`
 
 > [!INFO] FYI
-> All notes can be toggled between editing view (with live preview) and reading view. 
+> 1. All notes can be toggled between editing view (with live preview) and reading view. 
 > ![[Screenshot 2025-03-29 at 5.26.00 PM.png|200]] 
+> 2. To interface with a page in split view, click on the respective window. 
+> - ![[Pasted image 20250329205639.png|400]]
 
 # Notebook Dashboards 
 

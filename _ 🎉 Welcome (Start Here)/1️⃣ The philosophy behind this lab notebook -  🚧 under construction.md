@@ -19,7 +19,7 @@
 3. Automated directory-based structuring in a text-file dependent manner.
 4. "A 'file over app' philosophy - [File over app — Steph Ango](https://stephango.com/file-over-app)
 5. Local file-based ownership - Everything is stored on your machine **first**.
-6. Utilization of the power of bac-klinking, a core feature of Obsidian.
+6. Utilization of the power of back-linking, a core feature of Obsidian.
 
 # What is Obsidian?
 Many Obsidian users have summarized the power of this application. I'll leave a couple of my optional introduction resources below: 

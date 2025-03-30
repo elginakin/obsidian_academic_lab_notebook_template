@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 51.82767624020887,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "01_inbox/homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -24,11 +25,12 @@
         ]
       },
       {
-        "id": "7e967a8d1a7b2cde",
+        "id": "86aea74863f10b86",
         "type": "tabs",
+        "dimension": 48.17232375979113,
         "children": [
           {
-            "id": "605fec25adddf451",
+            "id": "b897c33f9b5f5e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,7 +133,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.813593052944332,
+                  "scale": 1.2996763812999101,
                   "close": true
                 }
               },
@@ -267,18 +269,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
-    "01_inbox/homepage.md",
     "_ 🎉 Welcome (Start Here)/1️⃣ The philosophy behind this lab notebook -  🚧 under construction.md",
-    "02_journal/2025-03-29.md",
+    "01_inbox/homepage.md",
+    "_attachments/Pasted image 20250329205639.png",
+    "01_inbox/Protocols Dashboard.md",
+    "03_projects/01_project-1/01_experiments/P1E02 - My Second Experiment.md",
     "_ 🎉 Welcome (Start Here)/6️⃣ Task and Experiment Management - 🚧 under construction.md",
     "_ 🎉 Welcome (Start Here)/5️⃣ Intro - Your first protocol -  🚧 under construction.md",
     "_ 🎉 Welcome (Start Here)/4️⃣  Intro - Your first experiment -  🚧 under construction.md",
+    "_ 🎉 Welcome (Start Here)/3️⃣   Intro - How this Vault is Structured -  🚧 under construction.md",
+    "README.md",
+    "02_journal/2025-03-29.md",
     "01_inbox/Project 1 Dashboard.md",
     "01_inbox/Project 2 Dashboard.md",
     "_attachments/Screenshot 2025-03-29 at 5.26.00 PM.png",
     "_ 🎉 Welcome (Start Here)/2️⃣  Intro - Project & Experiment ID -  🚧 under construction.md",
-    "_ 🎉 Welcome (Start Here)/3️⃣   Intro - How this Vault is Structured -  🚧 under construction.md",
     "_attachments/Screenshot 2025-03-29 at 5.20.47 PM.png",
     "_attachments/Screenshot 2025-03-29 at 4.55.04 PM.png",
     "_attachments/Pasted image 20250329133619.png",
@@ -288,9 +293,7 @@
     "_attachments/Screenshot 2025-03-29 at 5.17.06 PM.png",
     "_attachments/Screenshot 2025-03-29 at 5.16.47 PM.png",
     "_attachments/Screenshot 2025-03-29 at 5.16.34 PM.png",
-    "_attachments/Screenshot 2025-03-29 at 5.16.03 PM.png",
     "03_projects/02_project-2/01_experiments/P2E01 - Some Experiment Name.md",
-    "01_inbox/Protocols Dashboard.md",
     "03_projects/01_project-1/01_experiments/P1E01 - Some Experiment Name.md",
     "_templates/daily.md",
     "2025-03-29.md",
@@ -303,7 +306,6 @@
     "02_journal/2025-W14.md",
     "07_manuscripts/Manuscript Brainstorming.md",
     "_ 🎉 Welcome (Start Here)/7️⃣  ADDITIONAL SECTIONS to work on.md",
-    "04_knowledge-base/the zettelkasten system.md",
     "05_coursework/01_example-class_1",
     "00_milestones/Candidacy",
     "08_zotero",
